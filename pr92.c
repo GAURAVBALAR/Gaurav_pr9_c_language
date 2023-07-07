@@ -1,3 +1,10 @@
+/*
+Write a Program to generate mark sheets for a student. 
+Enter the marks of 5 students in Chemistry, Mathematics, and Physics (each out of 100) using a 
+Structure having attributes: roll no, name, chem_marks, maths_marks, and phy_marks. 
+Display the percentage of each student.
+*/
+
 #include <stdio.h>
 
 struct student {
